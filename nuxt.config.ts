@@ -1,5 +1,5 @@
 import { defineNuxtConfig } from 'nuxt'
 
 export default defineNuxtConfig({
-  css: ['vuetify/styles'],
+  css: ['vuetify/lib/styles/main.sass'],
 })
